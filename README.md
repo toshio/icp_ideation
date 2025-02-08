@@ -1,4 +1,4 @@
-# ICP Canister Ideatio
+# ICP Canister Ideation
 
 ## はじめに
 
